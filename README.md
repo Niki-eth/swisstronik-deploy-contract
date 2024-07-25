@@ -4,7 +4,10 @@ https://www.swisstronik.com/testnet2/dashboard#
 ## 1) Download and create a swisstronik wallet and get faucet in the task dashboard
 https://chromewebstore.google.com/detail/swisstronik/acfhdnikkbldnocbgmfginnmhjfkimjo?utm_team=devs_front&utm_channel&utm_lang=en&utm_date=45216
 
-## 2) Setup Instructions
+## 2) fund your wallet with faucet
+https://faucet.testnet.swisstronik.com/
+
+## 3) Setup Instructions
 
 1. **Clone the Repository:**
 
